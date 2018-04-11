@@ -2,6 +2,7 @@
 *.pdf
 *.csv
 .DS_Store
-.idea
+.idea/
 project/
 target/
+*.dat
